@@ -1,4 +1,4 @@
-Hi 👋 My name is Hari Krishnan O
+Hi, My name is Hari Krishnan O
 ================================
 
 Full-stack Developer | MERN-Stack
